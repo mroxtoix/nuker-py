@@ -1,0 +1,10 @@
+[ WAKE UP - Advanced Server Nuker ]
+A high-speed, multi-threaded utility engineered for rapid server transformation and automated structural cleanup.
+
+--- Features & Capabilities ---
+• High-Speed Execution: Ultra-fast rate-limit handling for instant operations.
+• Mass Actions: Bulk channel/role deletion and mass creation in seconds.
+• Precision Control: Custom mass messaging, webhook spamming, and status tracking.
+• Optimized Core: Built for maximum performance with minimal footprint.
+
+[Developed by/ ix]
